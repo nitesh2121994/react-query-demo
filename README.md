@@ -1,5 +1,6 @@
 # React-query demo
-Check src/pages/ProductDemo folder for code reference
+Check src/pages/ProductDemo folder for code reference. Hit below command to run the project.
+### npm run dev
 
 To view the product list, you need to install json-server
 ### npm install -g json-server
